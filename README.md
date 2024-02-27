@@ -1,1 +1,1 @@
-# PasswordGenerator
+The code generates a random and secure password based on the user's desired length. It allows the user to copy the password to the clipboard for easy use. It also checks that the input length is a valid number and displays an error message if not. The app has a graphical user interface (GUI) created with the tkinter.
